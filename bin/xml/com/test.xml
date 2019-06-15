@@ -1,0 +1,8 @@
+<suite name="dila">
+<test name ="xml"> 
+<classes>
+<class name="xml.com.RunXml">
+</class>
+</classes>
+</test>
+</suite>
